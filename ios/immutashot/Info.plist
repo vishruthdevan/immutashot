@@ -50,5 +50,9 @@
 	<false/>
 	<key>NSCameraUsageDescription</key>
 	<string>This app uses the camera to take photos</string>
+	<key>UIAppFonts</key>
+	<array>
+	<string>Ionicons.ttf</string>
+	</array>
 </dict>
 </plist>
